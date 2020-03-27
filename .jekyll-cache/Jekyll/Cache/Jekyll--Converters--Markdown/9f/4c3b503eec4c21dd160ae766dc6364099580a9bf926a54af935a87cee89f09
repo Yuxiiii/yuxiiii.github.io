@@ -1,9 +1,9 @@
-I"�<blockquote>
-  <p>正所谓前人栽树，后人乘凉。</p>
+I"��<blockquote>
+  <p>This is the first article in my blog.</p>
 
-  <p>感谢<a href="https://github.com/huxpro">Huxpro</a>提供的博客模板</p>
+  <p>The origin repository is from <a href="http://qubaiying.top">qubaiying</a>.</p>
 
-  <p><a href="http://qiubaiying.top">我的的博客</a></p>
+  <p>WIthout help of my friend <a href="https://shieldjy.github.io">Jiayi</a>, I will never own a personal blog like this.</p>
 </blockquote>
 
 <h1 id="前言">前言</h1>
@@ -24,10 +24,6 @@
 <h1 id="快速开始">快速开始</h1>
 
 <h3 id="从注册一个github账号开始">从注册一个Github账号开始</h3>
-
-<p>我采用的搭建博客的方式是使用 <a href="https://pages.github.com/">GitHub Pages</a> + <a href="http://jekyll.com.cn/">jekyll</a> 的方式。</p>
-
-<p>要使用 GitHub Pages，首先你要注册一个<a href="https://github.com/">GitHub</a>账号，GitHub 是全球最大的同性交友网站(吐槽下程序员~)，你值得拥有。</p>
 
 <p><img src="http://upload-images.jianshu.io/upload_images/2178672-e65e5cda50f38cef.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
 
@@ -510,37 +506,6 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 <p>不行的话，先清除浏览器缓存再试试。</p>
 
-<h4 id="404错误">404错误</h4>
-
-<ol>
-  <li>检查你的仓库名是否有按照要求填写</li>
-  <li>确定 <strong>Fork</strong> 的是不是我的仓库~</li>
-</ol>
-
-<h4 id="修改cname文件域名还是不变">修改CNAME文件，域名还是不变</h4>
-
-<p>清除浏览器缓存就OK~</p>
-
-<h4 id="其他问题">其他问题</h4>
-
-<p>直接在评论中提出来或私信我，我会一一替大家解决的😀</p>
-
-<h1 id="其他">其他</h1>
-
-<p>最近有人往我的远程仓库不停的 <strong>push</strong>，一天连收几十封邮件！例如像这样的</p>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/2178672-1347f2cc9a4a8dc8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
-
-<p>原因大多是直接Clone了我的仓库到本地，<strong>没有删除我的远程仓库地址</strong>，添加完自己的仓库地址后，一口气推送到所有远程仓库（包括我的😂）~</p>
-
-<p>打扰了我的工作和生活~</p>
-
-<p>所以，<strong>请不要往我的仓库上推送分支</strong>！</p>
-
-<p>我发现一个问题是，很多人每次修改博客的内容都commit一次到远程仓库，然后再查看修改结果，这样效率非常低！</p>
-
-<h4 id="来上车">来，上车！</h4>
-
 <h2 id="在本地调试博客">在本地调试博客</h2>
 
 <blockquote>
@@ -679,17 +644,9 @@ Configuration file: /Users/baiying/Blog/_config.yml
 
 <p>好了，现在个人博客的加载速度估计要起飞了~</p>
 
-<h1 id="最后要说个事情">最后要说个事情</h1>
+<h1 id="more-thoughts">More thoughts</h1>
 
-<p>我在博客中的文章，你们可以保留，让更多需要帮助人的看到，当然也可以删除。</p>
+<p>The process of building a blog shows my disadvantage again: which is that I am easy to be trapped on the road instead of heading to the goal. During my blog building, I was entangled with the blog theme. I have tried about this theme, and the <em>Next</em> theme. I put a lot of time in try differnent interfacre. However, the content is more important for a blog than its look. Looking back, actually I am always doing such things. When I want to learn about computational biology, I have spent a lot of time in installing Linux. I want to change this state, now.</p>
 
-<p>但是，我发现居然有人把文章的作者改成了自己，然后当成自己的文章放在自己的博客上，这就令人感到气愤了。</p>
-
-<p>比如说向我请教问题的这位：</p>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/2178672-ed45ebafec7f5d34.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
-
-<p>我在博客中的每篇文章都是我一字一句敲出来的，转载的文章我也注明了出处，表示对原作者的尊重。同时也希望大家都能尊重我的付出。</p>
-
-<p>谢谢~</p>
+<h2 id="reference">Reference</h2>
 :ET
